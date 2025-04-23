@@ -1,19 +1,25 @@
-# AluraStore
+# 📊 AluraStore - Análise de Desempenho das Lojas
 
-# Análise de Desempenho das Lojas Alura Store
+![Data Science](https://img.shields.io/badge/Área-Data_Science-blue)
+![Python](https://img.shields.io/badge/Linguagem-Python-green)
+![Pandas](https://img.shields.io/badge/Biblioteca-Pandas-yellow)
+![Matplotlib](https://img.shields.io/badge/Visualização-Matplotlib-red)
 
-## Descrição do Projeto
-Este projeto foi desenvolvido como parte do "ONE | TECH FOUNDATION - Especialização Data Science" "Praticando Python para Data Science: Challenge Alura Store" com o objetivo de analisar o desempenho de quatro lojas do e-commerce Alura Store. O Sr. João, proprietário da rede, deseja identificar qual loja apresenta o menor desempenho para considerar sua venda e investir em um novo negócio.
+## 🌟 Visão Geral da Atividade
 
-## Objetivo
-Identificar qual das quatro lojas tem o menor desempenho comparado às outras, baseando-se em diversas métricas de desempenho, e gerar um relatório com gráficos para auxiliar na decisão.
+Projeto desenvolvido como parte do programa **ONE | TECH FOUNDATION - Especialização Data Science**, especificamente para o desafio *"Praticando Python para Data Science: Challenge Alura Store"*. O objetivo principal é auxiliar o Sr. João, proprietário da rede Alura Store, na tomada de decisão estratégica sobre qual loja apresenta o menor desempenho para potencial venda e reinvestimento.
 
-## Métricas Analisadas
-- Faturamento total de cada loja
-- Categorias mais populares
-- Média de avaliação dos clientes
-- Produtos mais e menos vendidos
-- Custo médio do frete
+## 🎯 Objetivos Principais
+
+- 🔍 Identificar qual das quatro lojas tem o menor desempenho comparado às outras, baseando-se em diversas métricas de desempenho, e gerar um relatório com gráficos para auxiliar na decisão.
+
+## 📋 Métricas Analisadas
+
+| 💰 Faturamento total de cada loja
+| 🏷️ Categorias Populares 
+| ⭐ Média de avaliação dos clientes
+| 📦 Produtos mais e menos vendidos
+| 🚚 Custo Médio do Frete 
 
 ## Tecnologias Utilizadas
 - Python
