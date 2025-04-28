@@ -15,11 +15,11 @@ Projeto desenvolvido como parte do programa **ONE | TECH FOUNDATION - Especializ
 
 ## 📋 Métricas Analisadas
 
-| 💰 Faturamento total de cada loja
-| 🏷️ Categorias Populares 
-| ⭐ Média de avaliação dos clientes
-| 📦 Produtos mais e menos vendidos
-| 🚚 Custo Médio do Frete 
+-  💰 Faturamento total de cada loja
+-  🏷️ Categorias Populares 
+-  ⭐ Média de avaliação dos clientes
+-  📦 Produtos mais e menos vendidos
+-  🚚 Custo Médio do Frete 
 
 ## Tecnologias Utilizadas
 - Python
@@ -27,8 +27,7 @@ Projeto desenvolvido como parte do programa **ONE | TECH FOUNDATION - Especializ
 - Matplotlib (para visualização de dados)
 - Jupyter Notebook
 
-## Gráficos Gerados
-O projeto inclui gráficos para melhor visualização
+## O projeto inclui gráficos para melhor visualização
 
 ## Resultados
 
